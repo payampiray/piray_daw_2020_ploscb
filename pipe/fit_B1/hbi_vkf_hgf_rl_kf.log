@@ -1,0 +1,44 @@
+cbm_hbi                                           20-Sep-2019 00:23:06
+Running hierarchical bayesian inference (HBI)...
+
+HBI has been initialized according to
+	/home/control/paypir/MyScience/xgit/acckalm/pipe/fit_B1/lap_vkf.mat [for model 1]
+	/home/control/paypir/MyScience/xgit/acckalm/pipe/fit_B1/lap_hgf.mat [for model 2]
+	/home/control/paypir/MyScience/xgit/acckalm/pipe/fit_B1/lap_rl.mat [for model 3]
+	/home/control/paypir/MyScience/xgit/acckalm/pipe/fit_B1/lap_kf.mat [for model 4]
+ 
+Number of samples: 161
+Number of models: 4
+======================================================================
+Iteration 01
+Iteration 02
+	model frequencies (percent)
+	model 1: 53.9| model 2: 14.1| model 3: 5.2| model 4: 26.8| 
+                                                           dL:  110.90
+                                                           dm:   46.08
+                                                           dx:    0.85
+Iteration 03
+	model frequencies (percent)
+	model 1: 60.3| model 2: 8.8| model 3: 4.3| model 4: 26.6| 
+                                                           dL:   17.16
+                                                           dm:    6.40
+                                                           dx:    0.17
+Iteration 04
+	model frequencies (percent)
+	model 1: 62.1| model 2: 6.4| model 3: 4.1| model 4: 27.4| 
+                                                           dL:    4.92
+                                                           dm:    1.77
+                                                           dx:    0.06
+Iteration 05
+	model frequencies (percent)
+	model 1: 62.2| model 2: 5.3| model 3: 4.1| model 4: 28.4| 
+                                                           dL:    2.45
+                                                           dm:    0.14
+                                                           dx:    0.06
+Iteration 06
+	model frequencies (percent)
+	model 1: 62.0| model 2: 4.4| model 3: 4.1| model 4: 29.5| 
+                                                           dL:   16.95
+                                                           dm:    0.22
+                                                           dx:    0.04
+                                                          Converged :]

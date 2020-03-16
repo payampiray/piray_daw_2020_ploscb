@@ -1,0 +1,26 @@
+cbm_hbi                                           20-Sep-2019 00:30:13
+Running hierarchical bayesian inference (HBI)- null mode...
+
+HBI has been initialized according to
+	/home/control/paypir/MyScience/xgit/acckalm/pipe/fit_B1/lap_vkf.mat [for model 1]
+	/home/control/paypir/MyScience/xgit/acckalm/pipe/fit_B1/lap_hgf.mat [for model 2]
+	/home/control/paypir/MyScience/xgit/acckalm/pipe/fit_B1/lap_rl.mat [for model 3]
+	/home/control/paypir/MyScience/xgit/acckalm/pipe/fit_B1/lap_kf.mat [for model 4]
+ 
+Number of samples: 161
+Number of models: 4
+======================================================================
+Iteration 01
+Iteration 02
+                                                           dL:   23.85
+                                                           dx:    0.41
+Iteration 03
+                                                           dL:   -7.04
+                                                           dx:    0.14
+Iteration 04
+                                                           dL:    4.04
+                                                           dx:    0.07
+Iteration 05
+                                                           dL:    0.28
+                                                           dx:    0.03
+                                                          Converged :]
