@@ -60,5 +60,6 @@ end
 plot(m,'color',cols(1,:),'linewidth',2); hold on;
 set(gca,'fontname',fn);
 ylabel('State predictions','fontsize',fsy); hold on;
+xlabel('Trial','fontsize',fsy);
 set(gca,'ticklength', [0 0]);
 end
